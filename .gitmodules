@@ -1,0 +1,6 @@
+[submodule "braindump-api"]
+	path = braindump-api
+	url = ./braindump-api
+[submodule "braindump-web"]
+	path = braindump-web
+	url = ./braindump-web
